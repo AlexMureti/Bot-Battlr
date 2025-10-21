@@ -1,0 +1,50 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f7f8fa;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  text-align: center;
+  padding: 1rem;
+}
+
+.bot-collection, .bot-army {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+.bot-card {
+  background: white;
+  border-radius: 10px;
+  padding: 1rem;
+  width: 200px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.bot-card img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.discharge-btn {
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 5px 8px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.sortbar {
+  margin: 1rem auto;
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+}
