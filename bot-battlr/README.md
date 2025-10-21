@@ -91,8 +91,7 @@ The app uses functional components and React Hooks (useState, useEffect).
 Code includes helpful comments to guide beginners.
 
 ##Author
-Ellie (Assistant Scaffold Builder)
-Guided setup for the SA-02 Bot Battlr challenge.
+Alex Mureti
 
 ##License
 MIT License
